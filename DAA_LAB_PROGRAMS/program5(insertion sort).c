@@ -27,5 +27,14 @@ int main(){
 
 
 /*  OUTPUT 
-1 2 4 5 8
+Enter number of elements: 7
+Enter the elements:
+66
+25
+3
+6
+99
+12221
+32
+Sorted array: 3 6 25 32 66 99 12221
 */ 
