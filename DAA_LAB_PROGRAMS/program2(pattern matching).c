@@ -21,5 +21,5 @@ int main(){
 }
 
 /*  OUTPUT 
-1 2 4 5 8
+Pattern found at index 10
 */ 
