@@ -37,3 +37,8 @@ int main(){
     floydWarshall(graph,n);
     return 0;
 }
+
+
+/*  OUTPUT 
+1 2 4 5 8
+*/ 
