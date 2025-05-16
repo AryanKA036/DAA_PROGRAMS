@@ -48,5 +48,12 @@ int main(){
 }
 
 /*  OUTPUT 
-1 2 4 5 8
-*/ 
+Enter the size of array: 7
+Enter the elements: 22
+5
+33
+75
+70
+69
+85
+Sorted array: 5 22 33 69 70 75 85*/ 
