@@ -16,3 +16,9 @@ int main(){
         printf("%d ",arr[i]);
     return 0;
 }
+
+
+/*  OUTPUT 
+1 2 4 5 8
+*/ 
+
