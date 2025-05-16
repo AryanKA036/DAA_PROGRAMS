@@ -46,3 +46,8 @@ int main(){
     }
     return 0;
 }
+
+
+/*  OUTPUT 
+1 2 4 5 8
+*/ 
