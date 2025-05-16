@@ -59,3 +59,7 @@ int main(){
     kruskalMST(edges);
     return 0;
 }
+
+/*  OUTPUT 
+1 2 4 5 8
+*/ 
