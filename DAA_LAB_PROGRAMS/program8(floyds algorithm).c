@@ -40,5 +40,19 @@ int main(){
 
 
 /*  OUTPUT 
-1 2 4 5 8
+Enter number of vertices: 3
+Enter the adjacency matrix (use 99999 for INF):
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Shortest distances between every pair of vertices:
+   1   2   3
+   4   5   6
+   7   8   9
 */ 
